@@ -24,7 +24,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-  color: inherit;
+ 
+color: inherit;
 }
 .icon-ram:before {
   content: "\e900";
